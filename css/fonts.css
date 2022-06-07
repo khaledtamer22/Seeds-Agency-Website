@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'blanch_caps';
+	src: url('../fonts/blanch_caps/blanch_caps-webfont.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-size: 90px;
+}
+
+@font-face {
+	font-family: 'NewsGothicMT';
+	src: url('../fonts/NewsGothicMT/NewsGothicMT.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-size: 90px;
+}
+@font-face {
+	font-family: 'NewsGothicMT';
+	src: url('../fonts/NewsGothicMT/NewsGothicMTBold.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-size: 90px;
+}

@@ -1,0 +1,48 @@
+#desc-img-text-5 .bg-wrap{
+    background: #ffffff;
+}
+#desc-text-img-7 .bg-wrap {
+    background: #ffffff;
+}
+
+#benefits-2col-counter--0 .bg-wrap{
+    background: #ffffff;
+}
+#testimonial-3col-4 .bg-wrap {
+    background: #ffffff;
+}#footer-text-2 .bg-wrap {
+    background: #ffffff;
+}
+.processtext{
+    margin-top: -50px;
+
+}
+.processp,.processp1{
+    line-height: 25px;
+    
+}
+.processp1{
+    margin-top: -35px !important;
+}
+p{
+    font-size: large;
+}
+h3,h2,h4,h1{
+	font-family: 'blanch_caps' !important;
+	    font-size: 60px !important;
+    letter-spacing: 5px;
+    font-weight: normal !important;
+
+}
+@media(max-width: 900px){
+h3,h2,h4,h1{
+	font-family: 'blanch_caps' !important;
+	    font-size:60px !important;
+    letter-spacing: 4px;
+    font-weight: normal !important;
+
+}
+}
+#text-1col  img{
+	top: 2px;width:170px;height: auto;margin-left: 19%; margin-top: -15px;
+}

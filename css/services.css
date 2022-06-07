@@ -1,0 +1,15 @@
+#footer-text-2 .bg-wrap {
+    background: #ffffff;
+}
+
+h3,h2,h1{
+	font-family: 'blanch_caps' !important;
+	    font-size: 60px !important;
+    letter-spacing: 5px;
+    font-weight: normal !important;
+
+}
+
+h4 span{
+	letter-spacing: 2px;
+}

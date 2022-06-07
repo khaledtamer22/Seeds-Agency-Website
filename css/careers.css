@@ -1,0 +1,98 @@
+#footer-text-2 .bg-wrap {
+    background: #ffffff;
+}
+ .md{
+      width:100% ;
+      background-color: white;
+    }  
+    .sm{
+      width: 180px;
+      background-color: white;
+    }
+    .last-school-grade{
+      width: 166px;
+      background-color: white;
+    }
+    .lg{
+      width:100%;
+      background-color: white;
+    }
+    @media(max-width:767px){
+/*      .text-left p{
+        width: 100% !important;
+      }*/
+      .info{
+        margin-left:0 !important;
+      }
+      .GD{
+        /*margin-top:-6% !important;*/
+        /*margin-left:20% !important;*/
+      }
+      input , textarea{
+        width:100% !important;
+      }
+    }
+
+    @media (max-width: 900px) and (min-width: 767px) {
+      .text1,.text2,.text3,.text4{
+        width:137px !important;
+      }
+    }
+/*p{
+  text-align: justify;
+}*/
+ .careers li{
+	font-size: 23.3333333333px;
+  letter-spacing: 4px;
+}
+
+
+.form-group{
+  font-size:14.666667px;
+  font-family: NewsGothicMT !important;
+  letter-spacing: 3px;
+}
+
+.lsg{}
+.form-group input , textarea{
+  border: 0px !important;
+  background-color: #f5f5f5 !important;
+}
+
+.textactive{
+  
+  position: relative;
+      }
+/*.textactive::after{*/
+  /*color: white;*/
+  /*content: 'GRAPHIC DESIGNER';*/
+  /*height: 1px;*/
+  /*background-color: black;*/
+  /*position: absolute;*/
+  /*left:0%;*/
+  /*bottom: 0;*/
+  /*top:10;*/
+  /*}*/
+
+.textactive span{
+ 
+    border-bottom:1px solid black;
+    padding-bottom:10px;
+      }
+
+
+      p , .careers  li{
+        font-family: NewsGothicMT !important;
+      }
+
+      .title1, .title2  ,.title4{
+        font-size: x-large;
+        margin-bottom: 0.7rem !important;
+        font-weight: 300;
+      }
+      .title3{
+        font-size:21px ;
+      }
+      .text1, .text2 , .text3 ,.text4{
+        text-align:justify !important;
+      }

@@ -1,0 +1,71 @@
+
+#contact-form-2 .bg {
+    background-position: center bottom;
+    background-size: cover;
+    opacity: 1;
+    background-image: url(../images/bg-11.jpg);
+}
+#footer-text-2 .bg-wrap {
+    background: #ffffff;
+}
+.form-group h3,h2,h4,h1{
+	font-family: 'NewsGothicMT' !important;
+	    font-size: 36px !important;
+    letter-spacing: 7px;
+    font-weight: normal !important;
+
+}
+input{
+	font-size: 35px !important;
+}
+h3,h2,h4,h1{
+	font-family: 'blanch_caps' !important;
+	    font-size: 65px !important;
+    letter-spacing: 7px;
+    font-weight: normal !important;
+
+}
+#text-1col  img{
+	top: 2px;width:170px;height: auto;margin-left: 19%; margin-top: -15px;
+}
+@media(max-width: 900px){
+h3,h2,h4,h1{
+	font-family: 'blanch_caps' !important;
+	    font-size:60px !important;
+    letter-spacing: 4px;
+    font-weight: normal !important;
+
+}
+}
+@media(max-width: 500px){
+#text-1col img{
+	top: 2px;width:170px;height: auto;margin-left: 36%; margin-top: -15px;
+}
+}
+ .hide{
+        display: none !important;
+    }
+    .show{
+        display: block !important;
+    }
+    .myinput{
+        border: transparent;
+        border-bottom: 1px solid black;
+    }
+    .nxhello{
+        cursor: pointer;
+    }
+    .two,.three,.four,.five,.six,.seven,.eight{
+        display: none;
+    }
+    .next {
+        cursor: pointer;
+    }
+    .textarea{
+        width:500px;
+        height:200px;
+        border: 2px solid black;
+    }
+    .warning1,.warning2,.warning3,.warning4,.warning5,.warning6,.warning7{
+        color:red;
+    }
